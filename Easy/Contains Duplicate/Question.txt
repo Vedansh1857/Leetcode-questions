@@ -1,0 +1,3 @@
+Problem statement -> Contains Duplicate
+
+Problem link -> https://leetcode.com/problems/contains-duplicate/
