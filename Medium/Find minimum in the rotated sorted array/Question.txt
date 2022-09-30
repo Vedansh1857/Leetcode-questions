@@ -1,0 +1,3 @@
+Problem statement -> Find minimum in the rotated sorted array.
+
+problem limk -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
