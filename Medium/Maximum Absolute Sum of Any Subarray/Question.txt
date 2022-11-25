@@ -1,0 +1,3 @@
+Problem statement -> Return the maximum absolute sum of any (possibly empty) subarray of nums.
+
+Problem link -> https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/
