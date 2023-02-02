@@ -1,0 +1,3 @@
+Problem statement -> Return the length of the longest substring containing the same letter you can get after performing k operations.
+
+Problem link -> https://leetcode.com/problems/longest-repeating-character-replacement/description/
