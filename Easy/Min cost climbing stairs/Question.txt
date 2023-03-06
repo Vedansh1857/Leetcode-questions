@@ -1,0 +1,3 @@
+Problem statement -> Return the minimum cost to reach the top of the floor.
+
+Problem link -> https://leetcode.com/problems/min-cost-climbing-stairs/description/
