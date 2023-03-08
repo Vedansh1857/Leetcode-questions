@@ -1,0 +1,3 @@
+Problem statement -> Return the fewest number of coins that need to make up given amount. If that amount cannot be made up by any combination of the coins, return -1.
+
+Problem link -> https://leetcode.com/problems/coin-change/description/
