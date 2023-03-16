@@ -1,0 +1,3 @@
+Problem statement -> Given a triangle array, return the minimum path sum to reach from top to bottom.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/triangle-path-sum/1
