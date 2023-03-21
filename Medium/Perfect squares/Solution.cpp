@@ -1,8 +1,6 @@
-//User function Template for C++
-
-class Solution{
-	public:
-	int solveRec(int n){
+class Solution {
+public:
+    int solveRec(int n){
 	   // Base case...
 	   if(n==0) return 0;
 	   int ans = INT_MAX;
@@ -32,13 +30,12 @@ class Solution{
 	    }
 	    return dp[n];
 	}
-	int MinSquares(int n){
-	    // Code here
-	    // return solveRec(n);
-	   
-	    // vector<int> dp(n+1,-1);
-	    // return solveMem(n,dp);
-	    
-	    return solveTab(n);
-	}
+    int numSquares(int n) {
+        // return solveRec(n);
+
+	// vector<int> dp(n+1,-1);
+	// return solveMem(n,dp);
+
+	return solveTab(n);
+    }
 };
