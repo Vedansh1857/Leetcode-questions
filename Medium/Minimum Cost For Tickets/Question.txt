@@ -1,0 +1,3 @@
+Problem statement -> Minimum Cost For Tickets.
+
+Problem link -> https://leetcode.com/problems/minimum-cost-for-tickets/description/
