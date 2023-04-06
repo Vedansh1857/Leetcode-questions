@@ -1,0 +1,3 @@
+Problem statement -> Return the smallest possible total score that you can achieve with some triangulation of the polygon.
+
+Problem link -> https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/
