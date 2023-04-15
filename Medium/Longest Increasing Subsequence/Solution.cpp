@@ -53,7 +53,7 @@ public:
         for(int i=1;i<n;i++){
             if(nums[i]>ans.back()) ans.push_back(nums[i]);
             else{ // Calculate the just bigger element than nums[i] in the ans array
-                int index = *lower_bound(ans.begin(),ans.end(),nums[i]);
+                int index = lower_bound(ans.begin(),ans.end(),nums[i]) - ans.begin();
                 ans[index] = nums[i];
             }
         }
@@ -69,6 +69,8 @@ public:
 
         // return solveTab(n,nums);
 
-        return space_optimization(n,nums);
+        // return space_optimization(n,nums);
+
+        return expected_complexities(n,nums);
     }
 };
