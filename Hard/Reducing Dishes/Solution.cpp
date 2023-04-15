@@ -30,10 +30,9 @@ public:
         return dp[0][0];
     }
     int maxSatisfaction(vector<int>& satisfaction){
-        // sort(satisfaction.begin(),satisfaction.end());
+        sort(satisfaction.begin(),satisfaction.end()); // We sort first bcz to get the maximum ans we need to multiply the maximum value of the array with the max time
         // return solveRec(satisfaction,0,0);
 
-        sort(satisfaction.begin(),satisfaction.end());
         // vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
         // return solveMem(satisfaction,0,0,dp);
 
