@@ -1,0 +1,3 @@
+Problem statement -> Given an integer array slices that represent the sizes of the pizza slices in a clockwise direction, return the maximum possible sum of slice sizes that you can pick.
+
+Problem link -> https://leetcode.com/problems/pizza-with-3n-slices/description/
